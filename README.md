@@ -5,3 +5,5 @@ https://prnt.sc/ZOhY-PPT-OOs - plotly - More detailed, more interactive
 
 You need to have the required libraries (pandas, matplotlib, tkinter, plotly) for the program to run correctly.
 
+NOT CURRENTLY UP TO DATE - IN THE PROCESS OF UPDATING
+
